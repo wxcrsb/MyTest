@@ -2,11 +2,14 @@
 //
 
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
 int main()
 {
+    vector<int> vecTest(5);
+    cout << vecTest.size() << endl;
     cout << "This is NO.1 GitHub Project" << endl;
     std::cout << "Hello World!\n";
 
