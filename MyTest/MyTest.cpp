@@ -25,6 +25,8 @@ int main()
 
     cout << "This a test project." << endl;
 
+    cout << "This a test project." << endl;
+
     system("pause");
 }
 
