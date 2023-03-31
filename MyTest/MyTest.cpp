@@ -4,7 +4,6 @@
 #include <iostream>
 #include <vector>
 
-
 using namespace std;
 
 int main()
@@ -23,6 +22,9 @@ int main()
     std::cout << "Hello World!\n";
 
     cout << "This is push project test" << endl;
+
+    cout << "This a test project." << endl;
+
     system("pause");
 }
 
