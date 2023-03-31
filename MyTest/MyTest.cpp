@@ -9,6 +9,8 @@ int main()
 {
     cout << "This is NO.1 GitHub Project" << endl;
     std::cout << "Hello World!\n";
+
+    cout << "This is push project test" << endl;
     system("pause");
 }
 
