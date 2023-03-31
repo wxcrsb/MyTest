@@ -17,6 +17,7 @@ int main()
     vecTest.push_back(a);
     vecTest.push_back(b);
     vecTest.push_back(c);
+    int d = vecTest[0];
     cout << vecTest.size() << endl;
     cout << "This is NO.1 GitHub Project" << endl;
     std::cout << "Hello World!\n";
