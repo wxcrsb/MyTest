@@ -4,10 +4,15 @@
 #include <iostream>
 #include <vector>
 
+
 using namespace std;
 
 int main()
 {
+    int a = 10;
+    int b = 20;
+    int c = a + b;
+    cout << c << endl;
     vector<int> vecTest(5);
     cout << vecTest.size() << endl;
     cout << "This is NO.1 GitHub Project" << endl;
