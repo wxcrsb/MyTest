@@ -3,9 +3,13 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
+    cout << "This is NO.1 GitHub Project" << endl;
     std::cout << "Hello World!\n";
+    system("pause");
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
